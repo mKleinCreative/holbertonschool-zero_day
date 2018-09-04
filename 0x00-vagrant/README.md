@@ -1,0 +1,1 @@
+A basic hello ubuntu server.
